@@ -1,0 +1,9 @@
+{
+    "name": "ModularRock_01",
+    "mesh_url": "https://www.dropbox.com/s/8n1t648ct1k7148/ModularRock_01.obj?dl=1",
+    "diffuse_url": "https://www.dropbox.com/s/d7tqxphigw3xr6a/3TD_RockBase_02.jpg?dl=1",
+    "collider_url": "https://www.dropbox.com/s/8n1t648ct1k7148/ModularRock_01.obj?dl=1",
+    "normal_url": "https://www.dropbox.com/s/6trt92dcfbf9sc8/CliffEdge_001_Dif_NRM2.png?dl=1",
+    "material_index": 3,
+    "asset_url": "ModularRock_01-transformed.glb"
+}

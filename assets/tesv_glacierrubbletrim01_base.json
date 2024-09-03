@@ -1,0 +1,9 @@
+{
+    "name": "tesv_glacierrubbletrim01_base",
+    "mesh_url": "https://steamusercontent-a.akamaihd.net/ugc/1626318952222103634/CD81DA5867B452B4F11255DBD470BB5CBFE1E231/",
+    "diffuse_url": "https://steamusercontent-a.akamaihd.net/ugc/1626318952222103366/E8516542D3BC72EB1F1E2E2681F9CBF336304767/",
+    "collider_url": "https://steamusercontent-a.akamaihd.net/ugc/1626318952222103634/CD81DA5867B452B4F11255DBD470BB5CBFE1E231/",
+    "normal_url": "",
+    "material_index": 1,
+    "asset_url": "tesv_glacierrubbletrim01_base-transformed.glb"
+}

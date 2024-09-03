@@ -1,0 +1,9 @@
+{
+    "name": "Custom_Model_abc4b7",
+    "mesh_url": "https://www.dropbox.com/s/xjf17t02k2bjcfd/Flat_Hill_Mound.obj?dl=1",
+    "diffuse_url": "https://www.dropbox.com/s/dpzp3cwcs25ruje/Mountain%20rock%20dark%20texture%20seamless.jpg?dl=1",
+    "collider_url": "",
+    "normal_url": "",
+    "material_index": 3,
+    "asset_url": "Custom_Model_abc4b7-transformed.glb"
+}
