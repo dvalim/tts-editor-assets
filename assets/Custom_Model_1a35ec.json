@@ -1,0 +1,9 @@
+{
+    "name": "Custom_Model_1a35ec",
+    "mesh_url": "https://www.dropbox.com/s/8fb1lmx5x9t7n41/CaveRock_01.obj?dl=1",
+    "diffuse_url": "https://www.dropbox.com/s/d7tqxphigw3xr6a/3TD_RockBase_02.jpg?dl=1",
+    "collider_url": "https://www.dropbox.com/s/8fb1lmx5x9t7n41/CaveRock_01.obj?dl=1",
+    "normal_url": "https://www.dropbox.com/s/065sravufcub6fr/3TD_GrayCave_01_NRM.png?dl=1",
+    "material_index": 3,
+    "asset_url": "Custom_Model_1a35ec-transformed.glb"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "tesv_glaciertrim01",
+    "mesh_url": "https://steamusercontent-a.akamaihd.net/ugc/1626318952222102176/E62764742F65DB657A38DBEF2AFD0955D1DB0E47/",
+    "diffuse_url": "https://steamusercontent-a.akamaihd.net/ugc/1626318952222100812/C20A0F4A4F0772BD1D6CE600BEBC7EE7673DB526/",
+    "collider_url": "https://steamusercontent-a.akamaihd.net/ugc/1626318952222102176/E62764742F65DB657A38DBEF2AFD0955D1DB0E47/",
+    "normal_url": "",
+    "material_index": 1,
+    "asset_url": "tesv_glaciertrim01-transformed.glb"
+}

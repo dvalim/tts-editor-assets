@@ -1,0 +1,9 @@
+{
+    "name": "tesv_icebergsmall02",
+    "mesh_url": "https://steamusercontent-a.akamaihd.net/ugc/1626318952222102638/238BA5C4FBEF2700C67F14E7924AFEAB91E7CEEF/",
+    "diffuse_url": "https://steamusercontent-a.akamaihd.net/ugc/1626318952222100812/C20A0F4A4F0772BD1D6CE600BEBC7EE7673DB526/",
+    "collider_url": "https://steamusercontent-a.akamaihd.net/ugc/1626318952222102638/238BA5C4FBEF2700C67F14E7924AFEAB91E7CEEF/",
+    "normal_url": "",
+    "material_index": 1,
+    "asset_url": "tesv_icebergsmall02-transformed.glb"
+}

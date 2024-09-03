@@ -1,0 +1,9 @@
+{
+    "name": "tesv_icefloessolid02",
+    "mesh_url": "https://steamusercontent-a.akamaihd.net/ugc/1626318952222101011/6CCFD02F26C48CF6C866ABCCADE8C7D474D51D19/",
+    "diffuse_url": "https://steamusercontent-a.akamaihd.net/ugc/1626318952222098144/5B90E908E1553A68D4399BD7D7B7A43BA84C0967/",
+    "collider_url": "https://steamusercontent-a.akamaihd.net/ugc/1626318952222101011/6CCFD02F26C48CF6C866ABCCADE8C7D474D51D19/",
+    "normal_url": "",
+    "material_index": 1,
+    "asset_url": "tesv_icefloessolid02-transformed.glb"
+}

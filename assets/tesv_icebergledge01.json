@@ -1,0 +1,9 @@
+{
+    "name": "tesv_icebergledge01",
+    "mesh_url": "https://steamusercontent-a.akamaihd.net/ugc/1626318952222102528/ED2AF0FB9145180DF4D20D536C5F5A48B37E5B72/",
+    "diffuse_url": "https://steamusercontent-a.akamaihd.net/ugc/1626318952222100812/C20A0F4A4F0772BD1D6CE600BEBC7EE7673DB526/",
+    "collider_url": "https://steamusercontent-a.akamaihd.net/ugc/1626318952222102528/ED2AF0FB9145180DF4D20D536C5F5A48B37E5B72/",
+    "normal_url": "",
+    "material_index": 1,
+    "asset_url": "tesv_icebergledge01-transformed.glb"
+}
